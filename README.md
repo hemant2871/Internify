@@ -44,9 +44,9 @@ Internify/
  4. Questions and answers are hardcoded or loaded from a file (if implemented).
 
 ## Screenshot
-![one](q1.png)
-![two](q2.png)
-![three](q3.png)
+![one](intern.png)
+![two](opportunity.png)
+![three](contact.png)
 ![four](q4.png)
 
 ### 📬 Contact
