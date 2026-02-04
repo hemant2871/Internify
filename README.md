@@ -35,3 +35,20 @@ Internify/
 ├── package.json
 ├── package-lock.json
 └── README.md
+```
+
+## 🧠 How It Works
+ 1. The app presents one question at a time.
+ 2. The user selects an answer and clicks Next.
+3. At the end, the app calculates and displays the score.
+ 4. Questions and answers are hardcoded or loaded from a file (if implemented).
+
+## Screenshot
+![one](q1.png)
+![two](q2.png)
+![three](q3.png)
+![four](q4.png)
+
+### 📬 Contact
+Have any questions or want to connect?
+Reach me here: 🔗 [Linktree](https://linktr.ee/hemantsharma22?fbclid=PAQ0xDSwLbT41leHRuA2FlbQIxMQABp6bFdMywhk2GzbSiCfWfDCb8gXvykT8vF0bZEOt6SykMrXjh5t9-hKWpy3Ak_aem_0I6JJKhw2812C9Gu80zg5A) - All My Links
