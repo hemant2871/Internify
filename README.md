@@ -47,7 +47,7 @@ Internify/
 ![one](intern.png)
 ![two](opportunity.png)
 ![three](contact.png)
-![four](q4.png)
+
 
 ### 📬 Contact
 Have any questions or want to connect?
